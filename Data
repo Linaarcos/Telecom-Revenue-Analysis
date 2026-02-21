@@ -1,0 +1,10 @@
+📁 Contenido de la carpeta data/
+megaline_calls.csv: Contiene el historial de llamadas (ID, fecha, duración y user_id).
+
+megaline_internet.csv: Registra las sesiones web (ID, volumen de datos en MB, fecha y user_id).
+
+megaline_messages.csv: Contiene los datos de los SMS enviados (ID, fecha y user_id).
+
+megaline_plans.csv: Incluye la configuración de las tarifas (nombre del plan, minutos/SMS/datos incluidos y costos por excedentes).
+
+megaline_users.csv: Datos demográficos de los 500 clientes (ID, nombre, ciudad, plan suscrito y fecha de registro).
